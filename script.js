@@ -1,0 +1,1 @@
+alert("Welcome to BIG-TAMMY\nName: Oseni Tamilore David\nHeight: 5.9ft\nCountry: Nigeria")
